@@ -54,7 +54,7 @@ def perform_inference(image, annots_file, annots_format):
 
     image = annotate_image(image, annots_data)
 
-    out_file_name = f"out/{os.path.basename(annots_file).split(".")[0]}_labeled.json"
+    out_file_name = f"out/{os.path.basename(annots_file).split('.')[0]}_labeled.json"
     df = pd.DataFrame(annots_data)
     df.to_json(out_file_name, orient="records", lines=False, indent=2)
 
