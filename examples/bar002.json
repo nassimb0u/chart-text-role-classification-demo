@@ -1,0 +1,201 @@
+{
+    "id": "bar002",
+    "src": "CHIME-bar",
+    "no.": "002",
+    "width": 981,
+    "height": 645,
+    "textelements": [
+        {
+            "content": "n",
+            "boundingbox": {
+                "center_x": 64,
+                "center_y": 36,
+                "width": 19,
+                "height": 20,
+                "orientation": 0
+            },
+            "id": 0,
+            "role": "axis_title"
+        },
+        {
+            "content": "40",
+            "boundingbox": {
+                "center_x": 74,
+                "center_y": 69,
+                "width": 40,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 1,
+            "role": "tick_label"
+        },
+        {
+            "content": "35",
+            "boundingbox": {
+                "center_x": 73,
+                "center_y": 126,
+                "width": 37,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 2,
+            "role": "tick_label"
+        },
+        {
+            "content": "30",
+            "boundingbox": {
+                "center_x": 73,
+                "center_y": 183,
+                "width": 39,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 3,
+            "role": "tick_label"
+        },
+        {
+            "content": "25",
+            "boundingbox": {
+                "center_x": 71,
+                "center_y": 238,
+                "width": 38,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 4,
+            "role": "tick_label"
+        },
+        {
+            "content": "20",
+            "boundingbox": {
+                "center_x": 71,
+                "center_y": 295,
+                "width": 39,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 5,
+            "role": "tick_label"
+        },
+        {
+            "content": "15",
+            "boundingbox": {
+                "center_x": 72,
+                "center_y": 353,
+                "width": 32,
+                "height": 29,
+                "orientation": 0
+            },
+            "id": 6,
+            "role": "tick_label"
+        },
+        {
+            "content": "10",
+            "boundingbox": {
+                "center_x": 71,
+                "center_y": 409,
+                "width": 35,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 7,
+            "role": "tick_label"
+        },
+        {
+            "content": "5",
+            "boundingbox": {
+                "center_x": 78,
+                "center_y": 464,
+                "width": 17,
+                "height": 29,
+                "orientation": 0
+            },
+            "id": 8,
+            "role": "tick_label"
+        },
+        {
+            "content": "0",
+            "boundingbox": {
+                "center_x": 78,
+                "center_y": 521,
+                "width": 20,
+                "height": 29,
+                "orientation": 0
+            },
+            "id": 9,
+            "role": "tick_label"
+        },
+        {
+            "content": "17",
+            "boundingbox": {
+                "center_x": 195,
+                "center_y": 550,
+                "width": 35,
+                "height": 29,
+                "orientation": 0
+            },
+            "id": 10,
+            "role": "tick_label"
+        },
+        {
+            "content": "18",
+            "boundingbox": {
+                "center_x": 384,
+                "center_y": 554,
+                "width": 35,
+                "height": 30,
+                "orientation": 0
+            },
+            "id": 11,
+            "role": "tick_label"
+        },
+        {
+            "content": "19",
+            "boundingbox": {
+                "center_x": 579,
+                "center_y": 557,
+                "width": 33,
+                "height": 29,
+                "orientation": 0
+            },
+            "id": 12,
+            "role": "tick_label"
+        },
+        {
+            "content": "20",
+            "boundingbox": {
+                "center_x": 773,
+                "center_y": 561,
+                "width": 40,
+                "height": 31,
+                "orientation": 0
+            },
+            "id": 13,
+            "role": "tick_label"
+        },
+        {
+            "content": "(a)",
+            "boundingbox": {
+                "center_x": 800,
+                "center_y": 213,
+                "width": 45,
+                "height": 35,
+                "orientation": 0
+            },
+            "id": 14,
+            "role": "other"
+        },
+        {
+            "content": "Number of rays in A",
+            "boundingbox": {
+                "center_x": 483,
+                "center_y": 607,
+                "width": 338,
+                "height": 41,
+                "orientation": 0
+            },
+            "id": 15,
+            "role": "axis_title"
+        }
+    ]
+}
